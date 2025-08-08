@@ -1,0 +1,4 @@
+2025-06-29 13:00:00 root logged in from 192.168.1.10 with token=abc123
+2025-06-29 13:01:00 admin accessed /home/admin/.ssh/id_rsa
+2025-06-29 13:02:00 john.doe@example.com sent email to user123@corp.local
+2025-06-29 13:03:00 request to /reset?token=abcd1234&code=9999
